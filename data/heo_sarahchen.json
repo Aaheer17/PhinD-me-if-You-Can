@@ -1,0 +1,37 @@
+{
+  "overall_match_score": 35,
+  "research_fit_score": 0.2,
+  "workstyle_fit_score": 0.9,
+  "advising_skill_confidence": 0.3,
+  "prof_publications_per_year": {
+    "2020": 0,
+    "2021": 2,
+    "2022": 7,
+    "2023": 9,
+    "2024": 6
+  },
+  "student_publications_per_year": {
+    "2020": 0,
+    "2021": 0,
+    "2022": 0,
+    "2023": 1,
+    "2024": 2
+  },
+  "top_target_venues": [
+    {
+      "name": "CHI",
+      "count": 5
+    },
+    {
+      "name": "UIST",
+      "count": 3
+    },
+    {
+      "name": "Proc. ACM Hum. Comput. Interact. (CSCW/MobileHCI)",
+      "count": 3
+    }
+  ],
+  "narrative_research_fit": "The student's research focus is a significant mismatch with Professor Heo's. Sarah Chen's CV and SOP show a deep focus on **Medical AI, Computer Vision, and Multimodal Transformers** for diagnostics. Professor Heo's work, evidenced by his publications and lab website, is centered on **Human-Computer Interaction (HCI), VR/AR, and novel sensing systems** (e.g., `VRScroll`, `MoiréTag`, `SequenceSense`). While Sarah mentions 'human-AI collaboration', her interest is in model interpretability for clinicians, whereas Prof. Heo's work is on interaction paradigms. There is no evidence of Prof. Heo working in Medical AI or with the core ML architectures (Transformers for CV/NLP) that Sarah specializes in.",
+  "narrative_workstyle": "There is a very strong fit in terms of workstyle and productivity. Professor Heo maintains a highly productive lab, publishing 6-9 papers per year in top venues like CHI and UIST. Sarah Chen demonstrates a similar high-achieving and productive pace, having already co-authored **two top-tier papers (NeurIPS, MICCAI)** during her Master's, including one first-author, alongside leadership and teaching roles. Both appear to be collaborative and focused on high-impact publications, suggesting a good cultural fit in a fast-paced lab.",
+  "narrative_overall": "Overall, this is a **poor match** due to a fundamental misalignment in research disciplines. Sarah Chen is an outstanding ML/AI-for-healthcare candidate, but her stated PhD goals (foundation models for medical imaging, trustworthy AI for clinics) have almost no overlap with Professor Heo's HCI-focused lab (VR/AR, sensing, fabrication). While their workstyles align well, Sarah would need to completely abandon her current research trajectory to be a viable candidate for this lab. This advising relationship is unlikely to succeed unless the student is explicitly looking to pivot from Medical AI to HCI."
+}
