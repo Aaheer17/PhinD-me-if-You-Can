@@ -1,0 +1,37 @@
+{
+  "overall_match_score": 94,
+  "research_fit_score": 0.95,
+  "workstyle_fit_score": 0.9,
+  "advising_skill_confidence": 0.9,
+  "prof_publications_per_year": {
+    "2020": 0,
+    "2021": 37,
+    "2022": 17,
+    "2023": 21,
+    "2024": 25
+  },
+  "student_publications_per_year": {
+    "2020": 0,
+    "2021": 0,
+    "2022": 0,
+    "2023": 1,
+    "2024": 2
+  },
+  "top_target_venues": [
+    {
+      "name": "KDD",
+      "count": 10
+    },
+    {
+      "name": "Bioinformatics",
+      "count": 7
+    },
+    {
+      "name": "IJCAI",
+      "count": 6
+    }
+  ],
+  "narrative_research_fit": "The student's stated focus on **multimodal learning for medical image analysis**, **interpretability**, and **few-shot/meta-learning** for rare medical conditions aligns exceptionally well with Professor Zhang's core research. The professor's lab publishes extensively on **explainable AI in medicine** (e.g., 'explainable deep gene set enrichment', 'Self-explaining Neural Architecture'), **few-shot classification**, and the application of **large-scale models to biomedical data** (e.g., 'pre-trained biomedical language models', 'RAG for Medicine'). The student's practical experience with **Transformers for CT/MRI fusion** is a direct and highly relevant technical skill for this lab.",
+  "narrative_workstyle": "Professor Zhang's lab demonstrates extremely high productivity, with **20-37 publications per year** (including preprints) in the 2021-2024 period. This indicates a **large, fast-paced, and highly collaborative environment**. The student's own record of **high productivity** (2 top-tier publications in 2024), leadership roles (VP of WiCS), and teaching experience suggests she is a **self-motivated high-performer** who would likely thrive in such an environment. Her stated preference for 'interdisciplinary collaboration'  is a strong fit for the lab's apparent model.",
+  "narrative_overall": "Overall, this is an **exceptionally strong match**. The student's research interests in multimodal, interpretable, and few-shot learning for medical AI are a near-perfect fit for the professor's recent publication focus. The student's publication record at **NeurIPS** and **MICCAI** aligns perfectly with the professor's high-impact venues (KDD, NeurIPS, Bioinformatics). The student's high-achieving and collaborative profile [cite: 53, 69, 77] is well-suited for what appears to be a large and highly productive lab."
+}
