@@ -1,6 +1,34 @@
 # PhinD me if You Can 🎓  
 _Find your perfect PhD advisor match_
 
+## 💡 Motivation
+
+Choosing a PhD advisor is one of the most important decisions in a researcher's career — yet the process is often confusing, overwhelming, and based on incomplete information. Students usually spend hours reading Google Scholar profiles, digging through lab websites, and trying to infer workstyle, expectations, and compatibility on their own. This creates barriers for first-generation students, international students, and applicants without strong mentoring networks.
+
+**PhinD me if You Can** solves this problem by transforming scattered information into a structured, data-driven advisor–student compatibility analysis.
+
+### Why LLMs Are a Perfect Fit
+
+Large Language Models (LLMs) such as **Claude** bring unique strengths that make this application possible:
+
+- **Deep document understanding**  
+  LLMs can read CVs, SOPs, lab websites, and publication histories and extract key insights that would take students hours to process manually.
+
+- **Implicit pattern recognition**  
+  LLMs can detect advising styles, productivity patterns, research direction drift, and collaboration culture — insights that are not explicitly stated anywhere.
+
+- **Contextual reasoning**  
+  Instead of giving only a score, LLMs provide **explanations**, such as:  
+  *“Your research interest in generative modeling aligns strongly with the lab’s recent shift toward diffusion-based methods.”*
+
+- **Personalization**  
+  Each evaluation is tailored to the student’s preferences, goals, skills, and workstyle — something static ranking systems can't do.
+
+- **Scalability & accessibility**  
+  Automating the assessment gives every student access to the kind of guidance usually only available through experienced mentors.
+
+In short, LLMs make advisor–student matching **fairer, more transparent, and more accessible**, helping students make one of the most important decisions of their academic journey with confidence.
+
 This repository contains a Streamlit prototype app that helps prospective PhD students explore how well they might match with a potential advisor, based on:
 
 - Student’s research interests, skills, preferences, CV, and SOP  
