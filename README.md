@@ -42,6 +42,17 @@ Behind the scenes, the app uses **LLM APIs (such as Claude)** to perform match e
 ![System Diagram](sys-diagram.png)
 ---
 
+### <p align="center">⭐ Pros & ⚠️ Cons</p>
+
+| ⭐ **Pros** | ⚠️ **Cons** |
+|------------|-------------|
+| Evidence-based assessment using concrete data | Lack of contextual nuance |
+| Actionable insights for decision-making | Limited workstyle assessment capabilities |
+| Time-saving automation for students | Potential biases (productivity, venue, recency) |
+| Transparent scoring | Potentially harmful assumptions about work patterns |
+
+---
+
 
 ## 1. Install Python
 
