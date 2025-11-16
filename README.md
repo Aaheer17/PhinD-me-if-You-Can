@@ -3,7 +3,7 @@ _Find your perfect PhD advisor match_
 
 ## Motivation
 
-Choosing a PhD advisor is one of the most important decisions in a researcher's career — yet the process is often confusing, overwhelming, and based on incomplete information. Students usually spend hours reading Google Scholar profiles, digging through lab websites, and trying to infer workstyle, expectations, and compatibility on their own. This creates barriers for first-generation students, international students, and applicants without strong mentoring networks.
+Choosing a PhD advisor is one of the most important decisions in a researcher's career - yet the process is often confusing, overwhelming, and based on incomplete information. Students usually spend hours reading Google Scholar profiles, digging through lab websites, and trying to infer work style, expectations, and compatibility on their own. This creates barriers for first-generation students, international students, and applicants without strong mentoring networks.
 
 **PhinD me if You Can** solves this problem by transforming scattered information into a structured, data-driven advisor–student compatibility analysis.
 
