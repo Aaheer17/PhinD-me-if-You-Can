@@ -1,10 +1,46 @@
 # PhinD me if You Can 🎓  
-Find your perfect PhD advisor match
+_Find your perfect PhD advisor match_
 
-This repository contains a Streamlit prototype application.  
-Follow the steps below to install everything and run the `app.py` file.
+This repository contains a Streamlit prototype app that helps prospective PhD students explore how well they might match with a potential advisor, based on:
+
+- Student’s research interests, skills, preferences, CV, and SOP  
+- Professor’s Google Scholar and lab website  
+- Precomputed LLM-based analyses stored as JSON files
+
+The app is designed for the **Claude for Good 2025 – Student Track**.
 
 ---
+
+## Features
+
+### 🧑‍🎓 Student Profile Form
+- Research interests  
+- Statement of Purpose (SOP) upload (PDF)  
+- CV / Resume upload  
+- Professional / technical skills  
+- Work–life balance preference  
+- Preferred advising style  
+➡️ **Required fields are marked with `*` and must be completed to proceed.**
+
+### 👩‍🏫 Professor Profile Form
+- Professor name  
+- Affiliation (optional)  
+- Google Scholar profile URL  
+- Lab / personal website URL  
+➡️ **Required fields are marked with `*`.**
+
+### 📊 Match Evaluation (Results Page)
+- Overall match score  
+- Research fit, workstyle fit, and advising skill confidence  
+- Professor publication rate (last few years)  
+- Typical student publication output  
+- Top target venues (conferences/journals)  
+- Narrative explanations for research fit, workstyle, and overall recommendation  
+
+Behind the scenes, the app uses **LLM APIs (such as Claude)** to perform match evaluation and generate detailed reasoning for the advisor–student compatibility.
+
+---
+
 
 ## 1. Install Python
 
