@@ -1,7 +1,7 @@
 # PhinD me if You Can 🎓  
 _Find your perfect PhD advisor match_
 
-## 💡 Motivation
+## Motivation
 
 Choosing a PhD advisor is one of the most important decisions in a researcher's career — yet the process is often confusing, overwhelming, and based on incomplete information. Students usually spend hours reading Google Scholar profiles, digging through lab websites, and trying to infer workstyle, expectations, and compatibility on their own. This creates barriers for first-generation students, international students, and applicants without strong mentoring networks.
 
@@ -41,7 +41,7 @@ The app is designed for the **Claude for Good 2025 – Student Track**.
 
 ## Features
 
-### 🧑‍🎓 Student Profile Form
+### Student Profile Form
 - Research interests  
 - Statement of Purpose (SOP) upload (PDF)  
 - CV / Resume upload  
@@ -50,14 +50,14 @@ The app is designed for the **Claude for Good 2025 – Student Track**.
 - Preferred advising style  
 ➡️ **Required fields are marked with `*` and must be completed to proceed.**
 
-### 👩‍🏫 Professor Profile Form
+### Professor Profile Form
 - Professor name  
 - Affiliation (optional)  
 - Google Scholar profile URL  
 - Lab / personal website URL  
 ➡️ **Required fields are marked with `*`.**
 
-### 📊 Match Evaluation (Results Page)
+### Match Evaluation (Results Page)
 - Overall match score  
 - Research fit, workstyle fit, and advising skill confidence  
 - Professor publication rate (last few years)  
@@ -70,9 +70,9 @@ Behind the scenes, the app uses **LLM APIs (such as Claude)** to perform match e
 ![System Diagram](sys-diagram.png)
 ---
 
-### <p align="center">⭐ Pros & ⚠️ Cons</p>
+### <p align="center"> Pros &  Cons</p>
 
-| ⭐ **Pros** | ⚠️ **Cons** |
+| **Pros** | **Cons** |
 |------------|-------------|
 | Evidence-based assessment using concrete data | Lack of contextual nuance |
 | Actionable insights for decision-making | Limited workstyle assessment capabilities |
