@@ -5,7 +5,7 @@ This repository contains a Streamlit prototype app that helps prospective PhD st
 
 - Student’s research interests, skills, preferences, CV, and SOP  
 - Professor’s Google Scholar and lab website  
-- Precomputed LLM-based analyses stored as JSON files
+- LLM-based qualitative and quantitative reasoning
 
 The app is designed for the **Claude for Good 2025 – Student Track**.
 
