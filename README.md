@@ -39,6 +39,7 @@ The app is designed for the **Claude for Good 2025 – Student Track**.
 
 Behind the scenes, the app uses **LLM APIs (such as Claude)** to perform match evaluation and generate detailed reasoning for the advisor–student compatibility.
 
+![System Diagram](sys-diagram.png)
 ---
 
 
