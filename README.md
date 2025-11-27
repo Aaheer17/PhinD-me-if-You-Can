@@ -88,7 +88,7 @@ Behind the scenes, the app uses **LLM APIs (such as Claude)** to perform match e
 
 ---
 
-## 2. Install required packages
+## 2. Required packages
 
 Inside the project folder, run:
 
@@ -98,7 +98,7 @@ pip install streamlit pandas
 
 ---
 
-## 3. Run the Streamlit application
+## 3. Streamlit application
 
 Run this from the same directory where `app.py` is located:
 
