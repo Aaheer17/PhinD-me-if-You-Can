@@ -45,7 +45,7 @@ The app is designed for the **Claude for Good 2025 – Student Track**.
 - Research interests  
 - Statement of Purpose (SOP) upload (PDF)  
 - CV / Resume upload  
-- Professional / technical skills  
+- Professional/technical skills  
 - Work–life balance preference  
 - Preferred advising style  
 ➡️ **Required fields are marked with `*` and must be completed to proceed.**
@@ -82,35 +82,13 @@ Behind the scenes, the app uses **LLM APIs (such as Claude)** to perform match e
 ---
 
 
-## 1. Install Python
+## 1. Python Version
 
-Make sure you have **Python 3.8 or higher** installed.
-
-Check your Python version:
-
-```bash
-python3 --version
-```
+**Python 3.8 or higher**.
 
 ---
 
-## 2. (Optional but recommended) Create a virtual environment
-
-```bash
-python3 -m venv venv
-source venv/bin/activate
-```
-
-On Windows:
-
-```powershell
-python -m venv venv
-venv\Scripts\Activate
-```
-
----
-
-## 3. Install required packages
+## 2. Install required packages
 
 Inside the project folder, run:
 
@@ -118,11 +96,9 @@ Inside the project folder, run:
 pip install streamlit pandas
 ```
 
-These are the only required dependencies.
-
 ---
 
-## 4. Run the Streamlit application
+## 3. Run the Streamlit application
 
 Run this from the same directory where `app.py` is located:
 
@@ -130,19 +106,9 @@ Run this from the same directory where `app.py` is located:
 streamlit run app.py
 ```
 
-Streamlit will start the app and display a link such as:
-
-```
-Local URL: http://localhost:8501
-```
-
-Open that link in your browser to use the app.
-
 ---
 
-## 5. For background analysis, our prompt can be found here
-
-
+## 4. For background analysis, our prompt can be found here
 
 ```
 https://docs.google.com/document/d/1LGRE-jqcXMxs-assE0VZHYdEmGx9yoFK5Ukv6mAB680/edit?usp=sharing
